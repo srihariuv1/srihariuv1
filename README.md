@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[[LINK_TO_YOUR_BANNER_IMAGE](https://www.canva.com/design/DAGrGkdamPA/Lc05ugLRGSlsWhPY0uF5Pw/edit?utm_content=DAGrGkdamPA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]" alt="Banner" width="800"/>
+  <img src="[[(https://www.canva.com/design/DAGrGkdamPA/Lc05ugLRGSlsWhPY0uF5Pw/edit?utm_content=DAGrGkdamPA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]" alt="Banner" width="800"/>
 </p>
 
 # 👋 Hi, I’m **Srihari**.

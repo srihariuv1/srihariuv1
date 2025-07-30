@@ -2,9 +2,9 @@
   <img src="[LINK_TO_YOUR_BANNER_IMAGE]" alt="Banner" width="800"/>
 </p>
 
-# 👋 Hi, I’m [Srihari]
+# 👋 Hi, I’m **Srihari**.
 
-I'm a passionate **[Software Developer]** based in **[Bengaluru]**. I specialize in building robust and scalable applications. My goal is to leverage technology to solve real-world problems and create meaningful impact.
+I'm a passionate **Software Developer** based in **Bengaluru**. I specialize in building robust and scalable applications. My goal is to leverage technology to solve real-world problems and create meaningful impact.
 
 ---
 
@@ -26,24 +26,14 @@ Here are some of the technologies I work with:
 
 ### 🌱 I’m Currently Working On
 
-- 🔭 Building a cool project: **[Study ABroad]** - Creating a Study Abroad website which caters to an Ed Tech firm.
-- 🌱 Learning more about **[GraphQL, Kubernetes]**.
-- 👯 Looking to collaborate on open-source projects related to **[Frontend Web Development, Data Science, DevOps, Machine Learning]**.
+- 🔭 Building a cool project: **Study ABroad** - Creating a Study Abroad website which caters to an Ed Tech firm.
+- 🌱 Learning more about **GraphQL, Kubernetes**.
+- 👯 Looking to collaborate on open-source projects related to **Frontend Web Development, Data Science, DevOps, Machine Learning**.
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-
----
 
 ### 📫 How to Reach Me
 
-- **Portfolio:** [link-to-your-portfolio.com](https://link-to-your-portfolio.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/uvsrihari)
+- **Email:** [your.email@example.com](mailto:uvsrihari1@example.com)

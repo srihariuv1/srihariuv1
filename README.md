@@ -32,8 +32,8 @@ I'm a passionate **Software Developer** based in **Bengaluru**. I specialize in 
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uvsrihari1&show_icons=true&theme=tokyonight" alt="Srihari's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvsrihari1&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srihariuv1&show_icons=true&theme=tokyonight" alt="Srihari's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srihariuv1&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---

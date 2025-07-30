@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[LINK_TO_YOUR_BANNER_IMAGE]" alt="Banner" width="800"/>
+  <img src="[[LINK_TO_YOUR_BANNER_IMAGE](https://www.canva.com/design/DAGrGkdamPA/Lc05ugLRGSlsWhPY0uF5Pw/edit?utm_content=DAGrGkdamPA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]" alt="Banner" width="800"/>
 </p>
 
 # 👋 Hi, I’m **Srihari**.
@@ -35,5 +35,5 @@ Here are some of the technologies I work with:
 
 ### 📫 How to Reach Me
 
-- **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/uvsrihari)
-- **Email:** [your.email@example.com](mailto:uvsrihari1@example.com)
+- **LinkedIn:** [www.linkedin.com/in/uvsrihari](www.linkedin.com/in/uvsrihari)
+- **Email:** [uvsrihari1@gmail.com](mailto:uvsrihari1@example.com)
